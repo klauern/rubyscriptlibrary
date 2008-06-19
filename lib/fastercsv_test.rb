@@ -1,5 +1,8 @@
 # This script attempts to read a .csv file and push it out in a pretty format
 
+# An alternative method I think can be hobbled together from here:
+# http://rubyquiz.com/quiz17.html
+
 require 'rubygems'
 require 'faster_csv'
 
